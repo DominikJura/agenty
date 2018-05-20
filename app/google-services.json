@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534962385753",
+    "firebase_url": "https://agenty-6e15b.firebaseio.com",
+    "project_id": "agenty-6e15b",
+    "storage_bucket": "agenty-6e15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534962385753:android:b90d5ea2f5aec65b",
+        "android_client_info": {
+          "package_name": "agh.edu.pl.agenty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534962385753-su4k0ds51ctsk4hul07k6s0suouauint.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agh.edu.pl.agenty",
+            "certificate_hash": "fd5443ac93f641a2a7d1e62fff0ff02af3ab6ab0"
+          }
+        },
+        {
+          "client_id": "534962385753-1k8ehv4e8pnhesthsb1aitf3q72ate5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYW4JV3TDHgzyAV-usmG1Dh2geAnizYgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534962385753-1k8ehv4e8pnhesthsb1aitf3q72ate5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
