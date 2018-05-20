@@ -1,5 +1,6 @@
-package agh.edu.pl.agenty
+package agh.edu.pl.agenty.list
 
+import agh.edu.pl.agenty.model.VoiceModel
 import android.support.v7.util.DiffUtil
 
 class ListDiffCallback : DiffUtil.ItemCallback<VoiceModel>() {

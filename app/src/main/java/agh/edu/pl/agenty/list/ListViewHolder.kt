@@ -1,5 +1,6 @@
-package agh.edu.pl.agenty
+package agh.edu.pl.agenty.list
 
+import agh.edu.pl.agenty.model.VoiceModel
 import android.support.annotation.ColorRes
 import android.support.v4.content.ContextCompat.getColor
 import android.support.v7.widget.RecyclerView

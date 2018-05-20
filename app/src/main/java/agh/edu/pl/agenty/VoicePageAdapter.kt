@@ -1,5 +1,7 @@
 package agh.edu.pl.agenty
 
+import agh.edu.pl.agenty.list.ListFragment
+import agh.edu.pl.agenty.map.MapFragment
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentStatePagerAdapter

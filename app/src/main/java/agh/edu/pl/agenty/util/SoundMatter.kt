@@ -1,4 +1,4 @@
-package agh.edu.pl.agenty
+package agh.edu.pl.agenty.util
 
 import android.media.MediaRecorder
 

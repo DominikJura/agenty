@@ -1,5 +1,6 @@
 package agh.edu.pl.agenty
 
+import agh.edu.pl.agenty.util.SoundMatter
 import android.Manifest.permission.RECORD_AUDIO
 import android.content.pm.PackageManager
 import android.os.Bundle
@@ -11,13 +12,14 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.widget.ImageView
 import android.widget.Toast
-import com.google.firebase.database.*
+import com.google.firebase.database.DatabaseReference
+import com.google.firebase.database.FirebaseDatabase
 import io.reactivex.Observable
 import io.reactivex.disposables.Disposable
 import java.util.concurrent.TimeUnit
 
-import kotlinx.android.synthetic.main.activity_main.tab
 import kotlinx.android.synthetic.main.activity_main.view_pager as viewPager
+import kotlinx.android.synthetic.main.activity_main.tab
 
 class MainActivity : AppCompatActivity() {
 

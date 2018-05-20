@@ -1,5 +1,7 @@
-package agh.edu.pl.agenty
+package agh.edu.pl.agenty.list
 
+import agh.edu.pl.agenty.R
+import agh.edu.pl.agenty.model.VoiceModel
 import android.support.v7.recyclerview.extensions.ListAdapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
